@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ルチア",
+  "base_artist": "iCO",
+  "createdAt": "2026-02-08T08:16:46.948046Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルチア",
+      "artist": "iCO",
+      "has_synced": false,
+      "path": "select/pl_01_ルチア_iCO.txt"
+    }
+  ]
+}
